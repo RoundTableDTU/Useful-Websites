@@ -5,7 +5,7 @@ Greetings!!!
 
 For all those who're interested in beginning their journey into the world of Open Source and are looking forward to participate in Hacktober Fest 2022.
 
-##Description
+## Description
 In this repositry you can add useful links to the website that you think
 is relevent for the category as mentioned below:
  - Webdev
@@ -22,7 +22,7 @@ Follow the steps mentioned to make changes in the repositry.
 
 
 
-
+## Procedure
 To begin, the following steps should be followed:-
 
 1. [Fork](https://github.com/dsc-gtbit/ML-AI) and clone the repository

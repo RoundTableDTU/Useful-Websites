@@ -6,6 +6,7 @@ Google is the best place to search for everything
 
 https://youtube.com
 Stream a to z any video on this free platform.
+ - https://youtu.be/VPvVD8t02U8 ( Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial )
 
 For Flutter :
  - https://pub.dev/ ( u can get to know about all the packages used in flutter )

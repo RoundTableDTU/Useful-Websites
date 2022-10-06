@@ -4,5 +4,17 @@
 https://google.co.in
 Google is the best place to search for everything
 
+https://web.dev/
+Google believes in an open, accessible, private, and secure web. We want to help developers take advantage of the latest modern technologies to build amazing user experiences for everyone.
+
+https://www.freecodecamp.org/learn
+freeCodeCamp is a community of millions of people around the world who are learning to code together. You can learn to code with free online courses, programming projects, and interview preparation for developer jobs. 
+
+https://www.theodinproject.com/
+High quality coding education created by an Open-Source community.
+
+https://css-tricks.com/
+Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
+
 https://youtube.com
 Stream a to z any video on this free platform.

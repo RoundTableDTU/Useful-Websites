@@ -16,5 +16,18 @@ High quality coding education created by an Open-Source community.
 https://css-tricks.com/
 Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
 
+https://cssbattle.dev/
+SSBattle is an online CSS Code Golfing game. Here, players from all around the world try to visually replicate "Targets" in smallest possible CSS code and battle it out to get to the top of the leaderboard.
+
+https://cssgridgarden.com/
+A game for learning CSS grid layout 
+
+https://www.geeksforgeeks.org
+A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+
 https://youtube.com
 Stream a to z any video on this free platform.
+  - [Introduction to Web Development by Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-cEDOofOujFIknfZZpIk3a)
+  - [HTML Crash Course by Traversy Media](https://youtu.be/UB1O30fR-EE)
+  - [CSS Crash Course by Traversy Media](https://youtu.be/yfoY53QXEnI)
+  - [JavaScript Crash Course by Traversy Media](https://youtu.be/hdI2bqOjy3c)

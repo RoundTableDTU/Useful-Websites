@@ -39,3 +39,5 @@ CSS Crash Course by Traversy Media
 https://youtu.be/hdI2bqOjy3c
 JavaScript Crash Course by Traversy Media
 
+https://www.w3schools.com/
+Learn to Code With the world's largest web developer site.

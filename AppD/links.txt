@@ -13,6 +13,11 @@ Stream a to z any video on this free platform.
 For Flutter :
  - https://pub.dev/ ( u can get to know about all the packages used in flutter )
  
- 
 For dev env:
  -  https://github.com/flutter/flutter/wiki/Flutter-build-release-channels(Propositions in flutter)
+
+https://developer.android.com/courses/android-basics-kotlin/course
+A detailed course on building android applications using Kotlin programming language.
+
+https://developer.android.com/courses/android-basics-compose/course
+Learn the basics of building Android appplications with Jetpack Compose, the new UI toolkit for building Android apps. 

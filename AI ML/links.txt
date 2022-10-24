@@ -6,3 +6,6 @@ Google is the best place to search for everything
 
 https://youtube.com
 Stream a to z any video on this free platform.
+
+https://www.kaggle.com/
+More than 500,00 publically avaiable datasets and 400,000 public Jupyter Notebooks for AI/ML and Data Science

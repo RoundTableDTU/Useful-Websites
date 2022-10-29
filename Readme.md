@@ -17,9 +17,9 @@ is relevent for the category as mentioned below:
  - Designers
  - Cybersecurity
 
-You can find the format in the first 3 lines on link.txt in the respective folder. 
-Follow the steps mentioned to make changes in the repositry.
-
+ 
+The format can be found in the first three lines of link.txt in the appropriate folder.
+To make modifications to the repository, follow the instructions outlined.
 
 
 ## Procedure

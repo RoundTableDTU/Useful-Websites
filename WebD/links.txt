@@ -47,3 +47,6 @@ web development
 
 https://tailblocks.cc/
 useful website for quickly adding basic css elements to your website.
+
+https://nicepage.com
+Awesome website for templates to html/css

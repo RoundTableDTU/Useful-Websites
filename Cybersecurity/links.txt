@@ -15,3 +15,6 @@ Website for practicing
 
 https://tryhackme.com/
 Hands-on cyber security training.
+
+https://browser.lol/
+Start unsecure links in a virtual environment in your browser.

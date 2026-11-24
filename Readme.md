@@ -43,3 +43,7 @@ To begin, the following steps should be followed:-
 <a href="hhttps://github.com/RoundTableDTU/Useful-Websites">
   <img src="https://contrib.rocks/image?repo=RoundTableDTU/Useful-Websites" />
 </a>
+
+## Contribution notes
+
+- [Jam - PixelArtHive](contributions/Jam.md)

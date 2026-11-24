@@ -30,3 +30,6 @@ Features the best ui and ux practices from industry leaders
 
 https://uxarchive.com/
 World's largest library of mobile user flows
+
+https://pixelarthive.com/
+PixelArtHive: free browser-based image-to-pixel-art conversion and pixel art upscaling; images are processed locally.
